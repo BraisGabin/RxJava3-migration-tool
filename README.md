@@ -32,7 +32,7 @@ This script reads from `rxjava3-class-mapping.csv` to know which replaces it sho
 If you edit `rxjava3-class-mapping.csv`, please run this script to rearrange the lines again:
 
 ```shell
-sort -u -t , -k2 -o rxjava3-class-mapping.csv rxjava3-class-mapping.csv
+sort -r -u -o rxjava3-class-mapping.csv rxjava3-class-mapping.csv
 ```
 
 ## Credits
