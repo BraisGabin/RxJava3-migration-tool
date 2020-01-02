@@ -1,4 +1,3 @@
-RxJava2 class,RxJava3 class
 com.jakewharton.rxbindings3,com.jakewharton.rxbindings4
 com.jakewharton.rxrelay2,com.jakewharton.rxrelay3
 io.reactivex.android.MainThreadDisposable,io.reactivex.rxjava3.android.MainThreadDisposable
