@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Check mapping sorting
+      run: sort -r -u rxjava3-class-mapping.csv | diff - rxjava3-class-mapping.csv
