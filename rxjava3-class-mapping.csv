@@ -17,6 +17,7 @@ io.reactivex.schedulers.Timed,io.reactivex.rxjava3.schedulers.Timed
 io.reactivex.schedulers.TestScheduler,io.reactivex.rxjava3.schedulers.TestScheduler
 io.reactivex.schedulers.Schedulers,io.reactivex.rxjava3.schedulers.Schedulers
 io.reactivex.schedulers.SchedulerRunnableIntrospection,io.reactivex.rxjava3.schedulers.SchedulerRunnableIntrospection
+io.reactivex.rxkotlin,io.reactivex.rxjava3.kotlin
 io.reactivex.processors.UnicastProcessor,io.reactivex.rxjava3.processors.UnicastProcessor
 io.reactivex.processors.ReplayProcessor,io.reactivex.rxjava3.processors.ReplayProcessor
 io.reactivex.processors.PublishProcessor,io.reactivex.rxjava3.processors.PublishProcessor
