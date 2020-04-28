@@ -83,8 +83,7 @@ io.reactivex.annotations.CheckReturnValue,io.reactivex.rxjava3.annotations.Check
 io.reactivex.annotations.Beta,io.reactivex.rxjava3.annotations.Beta
 io.reactivex.annotations.BackpressureSupport,io.reactivex.rxjava3.annotations.BackpressureSupport
 io.reactivex.annotations.BackpressureKind,io.reactivex.rxjava3.annotations.BackpressureKind
-io.reactivex.android.schedulers.AndroidSchedulers,io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
-io.reactivex.android.MainThreadDisposable,io.reactivex.rxjava3.android.MainThreadDisposable
+io.reactivex.android,io.reactivex.rxjava3.android
 io.reactivex.SingleTransformer,io.reactivex.rxjava3.core.SingleTransformer
 io.reactivex.SingleSource,io.reactivex.rxjava3.core.SingleSource
 io.reactivex.SingleOperator,io.reactivex.rxjava3.core.SingleOperator
